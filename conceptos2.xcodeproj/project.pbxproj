@@ -35,6 +35,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B22BDA9A263C47A00001E6FE /* TiposAnidados.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TiposAnidados.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B22BDA9E263C4A390001E6FE /* Extensiones.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Extensiones.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B22BDAA2263C4C8D0001E6FE /* Protocolos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Protocolos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B22BDAA6263C51040001E6FE /* ProtocoloDelegado.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ProtocoloDelegado.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B22BDAAD263C59300001E6FE /* CodigosGenericos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CodigosGenericos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B24DA58626370CAA00E98B47 /* conceptos2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = conceptos2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B24DA58926370CAA00E98B47 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B24DA58B26370CAA00E98B47 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +117,11 @@
 				B24DA5BC26370CDB00E98B47 /* enlacesOpcionales.playground */,
 				B24DA5C026370E8E00E98B47 /* cadenasOpcionales.playground */,
 				B24DA5C4263713CC00E98B47 /* manejoDeErrores.playground */,
+				B22BDA9A263C47A00001E6FE /* TiposAnidados.playground */,
+				B22BDA9E263C4A390001E6FE /* Extensiones.playground */,
+				B22BDAA2263C4C8D0001E6FE /* Protocolos.playground */,
+				B22BDAA6263C51040001E6FE /* ProtocoloDelegado.playground */,
+				B22BDAAD263C59300001E6FE /* CodigosGenericos.playground */,
 			);
 			path = conceptos2;
 			sourceTree = "<group>";
