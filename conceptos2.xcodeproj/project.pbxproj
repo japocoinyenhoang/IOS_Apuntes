@@ -57,6 +57,10 @@
 		B24DA5BC26370CDB00E98B47 /* s02enlacesOpcionales.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = s02enlacesOpcionales.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B24DA5C026370E8E00E98B47 /* s02cadenasOpcionales.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = s02cadenasOpcionales.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B24DA5C4263713CC00E98B47 /* s02manejoDeErrores.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = s02manejoDeErrores.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B290A35326442DC400ABECDC /* s04ForEach.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = s04ForEach.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B290A35726442DF700ABECDC /* s04MapaAlgoritmos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = s04MapaAlgoritmos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B290A35E26442E4400ABECDC /* s04Colecciones.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = s04Colecciones.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B290A36226442E6600ABECDC /* s04Sets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = s04Sets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +126,10 @@
 				B22BDAA2263C4C8D0001E6FE /* s03Protocolos.playground */,
 				B22BDAA6263C51040001E6FE /* s03ProtocoloDelegado.playground */,
 				B22BDAAD263C59300001E6FE /* s3CodigosGenericos.playground */,
+				B290A35326442DC400ABECDC /* s04ForEach.playground */,
+				B290A35726442DF700ABECDC /* s04MapaAlgoritmos.playground */,
+				B290A35E26442E4400ABECDC /* s04Colecciones.playground */,
+				B290A36226442E6600ABECDC /* s04Sets.playground */,
 			);
 			path = conceptos2;
 			sourceTree = "<group>";
